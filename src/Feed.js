@@ -35,6 +35,7 @@ function Feed() {
                 image= {post.image}
                 />
             ))} */}
+            //Post
             <Post
                 displayName="Inshal Aamir"
                 username="@inshalaamir"
